@@ -26,6 +26,7 @@ function App() {
       company:"Glenmark Pharmaceutical Limited",
       location:"PARVAT PATIYA, SURAT, GUJRAT"
     },
+    
     {
       ind:2,
       img:"https://raw.githubusercontent.com/AFZL210/WebDevForBeginners/main/media/medicineImg.PNG",
@@ -44,7 +45,7 @@ function App() {
     },
     {
       ind:4,
-      img:"https://raw.githubusercontent.com/AFZL210/WebDevForBeginners/main/media/medicineImg.PNG",
+      img:"https://res.cloudinary.com/primeflix/image/upload/v1670829687/IMG_20221211_180547_auto_x2_ju425p.jpg",
       title:"Favipirapir 400mg (Fabiflu) Tablets",
       price:"1,775",
       company:"Glenmark Pharmaceutical Limited",
