@@ -10,6 +10,6 @@
 
 ## Demo
 
-Insert gif or link to demo
+
 
 ![](https://raw.githubusercontent.com/AFZL210/WebDevForBeginners/main/media/ezgif.com-gif-maker.gif)
